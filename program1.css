@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(bee.jpg);
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #CC9933;
+    width: 200px;
+  }
+  
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: blue(221, 221, 221);
+    color: black;
+  }
+
+  h1{
+    color: #A4A400;  
+    text-align: center;
+    letter-spacing: 10px;
+  }
